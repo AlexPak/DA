@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DACore.iml" filepath="$PROJECT_DIR$/DACore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MLE/MLE.iml" filepath="$PROJECT_DIR$/MLE/MLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimplePlot/SimplePlot.iml" filepath="$PROJECT_DIR$/SimplePlot/SimplePlot.iml" />
+    </modules>
+  </component>
+</project>
+
